@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\workspace\sisrh\src\main\java\sisrh\banco\Banco.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -48,6 +49,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="projetorest"/>
 			<item value="projetosoap"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -63,6 +65,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
