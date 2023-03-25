@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.jws.WebParam"/>
+    <fullyQualifiedTypeName name="exception.DivisaoPorZeroException"/>
+    <fullyQualifiedTypeName name="javax.annotation.Resource"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.WebServiceContext"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.handler.MessageContext"/>
+</qualifiedTypeNameHistroy>

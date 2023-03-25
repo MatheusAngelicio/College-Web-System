@@ -1,0 +1,24 @@
+package exception;
+
+public class Snippet {
+	public double dividir(
+	
+	                @WebParam(name = "numero1") double numero1,
+	
+	                @WebParam(name = "numero2") double numero2) throws Exception  {
+	
+	       
+	
+	       if (numero2 == 0) {
+	
+	              throw new Exception("Divisão por zero não é permitida");
+	
+	       }
+	
+	       
+	
+	        return numero1 / numero2;
+	
+	}
+}
+
